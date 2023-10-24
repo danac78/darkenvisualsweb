@@ -82,8 +82,8 @@
     "sitemapSwitcher": false,
     "siteUrl": false,
     "sitemapSwitcherAuto": "on",
-    "favicon": false,
-    "mbrsiteDomain": "5hjisbghax",
+    "favicon": "@PROJECT_PATH@/assets/images/darkenvisualssm-128x72.png",
+    "mbrsiteDomain": "tbz134mbt1",
     "uniqCompNum": 15,
     "versionPublish": "5.9.6",
     "screenshot": "screenshot.png"

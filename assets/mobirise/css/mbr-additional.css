@@ -3122,6 +3122,9 @@ a {
 .cid-tTkKWPTQ9r a[class*="text-"]:not(.nav-link):not(.dropdown-item):not([role]):not(.navbar-caption):hover {
   background-image: none;
 }
+.cid-tT9ExWXYfe {
+  background-image: url("../../../assets/images/darkenvisualssm-1000x562.webp");
+}
 .cid-tT9ExWXYfe .mbr-fallback-image.disabled {
   display: none;
 }
@@ -3133,15 +3136,6 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
-  background-image: url("../../../assets/images/darkenvisualssm-1000x562.webp");
-}
-.cid-tT9ExWXYfe .container-fluid {
-  padding: 0 120px;
-}
-@media (max-width: 768px) {
-  .cid-tT9ExWXYfe .container-fluid {
-    padding: 0 26px;
-  }
 }
 @media (max-width: 768px) {
   .cid-tT9ExWXYfe .container {
